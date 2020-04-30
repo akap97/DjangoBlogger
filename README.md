@@ -1,5 +1,5 @@
 # DjangoBlogger
 
-##A blogging app using Django
+## A blogging app using Django
 
-###Link: https://aryandjangoblog.herokuapp.com/
+### Link: https://aryandjangoblog.herokuapp.com/
